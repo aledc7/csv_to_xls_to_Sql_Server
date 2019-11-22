@@ -10,22 +10,18 @@
 
 
 
-
-## How to Convert any CSV or XLS file into SQL Server Table
-
 ## Como convertir cualquier archivo CSV o XLS en una tabla de SQL Server
 
 
-Requirements
+Requerimientos
 
 - [x] Sql Server Management Studio
 - [x] Excel 2010 or +
 
 
-1.  
-The content of a .csv file separated by commas is displayed.
-First we will convert this file into xls
+Aclaración:  En caso que se tenga un archivo XLS en vez de CSV, saltearse directamente hasta la __Seccion SQL__
 
+1.  
 Se muestra el contenido de un archivo .scv separado por comas.  
 Primero convertiremos este archivo en xls
 
@@ -105,7 +101,7 @@ Aqui ya se debería notar la división de las columnas, en caso contrario, segui
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel9.png" width="500"
 </p>
 
-## Parte SQL
+# Seccion SQL
 
 
 1.
