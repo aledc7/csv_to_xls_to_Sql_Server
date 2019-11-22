@@ -186,10 +186,17 @@ Database :arrow_right: __Tasks__ :arrow_right: __Import Data__
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql13.png" width="500"
 </p>
   
+13. Finalmente solo resta refrescar la base de datos para que se vea la nueva tabla recien creada  
+  
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql14.png" width="500"
 </p>
   
+14.  Aqui se observa el resultado final, tenemos nuestra tabla creada con sus datos, a partir de un archivo CSV.  
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql15.png" width="500"
 </p>
+  
+  
+  
+###### Eso es todo  
