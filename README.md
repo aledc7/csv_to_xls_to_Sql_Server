@@ -155,11 +155,11 @@ Database :arrow_right: __Tasks__ :arrow_right: __Import Data__
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql7.png" width="500"
 </p>
 
-
-8.  Luego se debe seleccionar __Copy data from one or more tables or views__  
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql8.png" width="500"
 </p>
+  
+8.  Luego se debe seleccionar __Copy data from one or more tables or views__    
 
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql9.png" width="500"
