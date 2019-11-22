@@ -121,20 +121,12 @@ Database :arrow_right: __Tasks__ :arrow_right: __Import Data__
 
 
 2.  Se abrirá el Wizzard , le damos siguiente  :point_down:
-
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql2.png" width="500"
 </p>
   
 
-
-
-
-
-
 3. Luego en __Data Source__ elegimos __Microsoft Excel__
-
-
  <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql3.png" width="500"
 </p>
@@ -142,62 +134,64 @@ Database :arrow_right: __Tasks__ :arrow_right: __Import Data__
 
 4. Exploramos y seleccionamos el archivo xls que será convertido en tabla 
   
-
-
-
-5. Luego debemos asegurarnos de tildar  - [x] First row has column names
-  <p align="center">
+<p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql4.png" width="500"
 </p>
 
-6. Luego en __Choose a Destination__ se debe seleccionar __Microsoft OLE DB Driver for SQL Server__ como se muestra en la foto :point_down:
-  <p align="center">
+
+5. Luego debemos asegurarnos de tildar  - [x] First row has column names
+<p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql5.png" width="500"
-</p>
+</p> 
+
+6. Luego en __Choose a Destination__ se debe seleccionar __Microsoft OLE DB Driver for SQL Server__ como se muestra en la foto :point_down:
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql6.png" width="500"
+</p>  
 
 
 7. Luego en esta pantalla se debe indicar el nombre del servidor, la base de datos de destino, y las credenciales de __User__ y __Password__
-  <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql6.png" width="500"
-</p>
-
-
-8.  Luego se debe seleccionar __Copy data from one or more tables or views__  
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql7.png" width="500"
 </p>
 
 
+8.  Luego se debe seleccionar __Copy data from one or more tables or views__  
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql8.png" width="500"
+</p>
+
+
 9. En este cuedro muestra el __origen__ y __destino__ de la migración.
   <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql8.png" width="500"
+  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql9.png" width="500"
 </p>
   
 10. Por ultimo verificar que se encuentre checkeado el icono de __run inmediately__   
   <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql9.png" width="500"
+  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql10.png" width="500"
 </p>
 
 
 11. Confirmar haciendo click en __finish__
   <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql10.png" width="500"
+  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql11.png" width="500"
 </p>
   
 12. Si todo fue exitoso debería verse la siguiente imágen :point_down:  
   <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql11.png" width="500"
-</p>
-
-
-  <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql12.png" width="500"
 </p>
-  
+
+
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql13.png" width="500"
 </p>
   
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql14.png" width="500"
+</p>
+  
+  <p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql15.png" width="500"
 </p>
