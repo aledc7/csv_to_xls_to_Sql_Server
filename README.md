@@ -122,13 +122,17 @@ Database :arrow_right: __Tasks__ :arrow_right: __Import Data__
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/slq1.png" width="500"
 </p>
+  
+
+
+
+
 
 
 3. Luego en __Data Source__ elegimos __Microsoft Excel__
-  <p align="center">
+<p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql2.png" width="500"
-</p>                       
- 
+</p>
 
 4. Exploramos y seleccionamos el archivo xls que será convertido en tabla 
   
