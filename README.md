@@ -42,7 +42,7 @@ Se observa en la imgen de arriba, que todos los datos del archivo csv se encuent
 ## Convirtiendo un archivo CSV a XLS
 
 
-1.
+1.  Abrir un documento de excel en Blanco y Luego seleccionar el menú de __importar__
 
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel2.png" width="500"
@@ -50,39 +50,54 @@ Se observa en la imgen de arriba, que todos los datos del archivo csv se encuent
   
   
   
-2.  
+2.   Seleccionar el tipo __CSV__
 
 
-2.2
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel3.png" width="500"
 </p>
   
   
   
-3.  
+3.  Definir a partir de que fila se comienza la importación, en mi caso desde ela fila 1.
 
-2.3
+Luego elijo __Unicode (UTF8)__  y el radio buton en __Delimited__
+
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel4.png" width="500"
 </p>
   
+4.  Aquo debo indicar que caracter separa los campos en el archivo csv, en mi caso es una coma. 
+Aqui ya se debería notar la divisio de las columnas, en caso contrario, seguir cambiando la configuración, hasta lograr la división, tal como se muestra en la imagen de abajo :point_down:
+  
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel5.png" width="500"
 </p>
-  
+
+
+5.
+
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel6.png" width="500"
 </p>
-  
+
+
+6.
+
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel7.png" width="500"
 </p>
-  
+
+
+7.
+
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel8.png" width="500"
 </p>
-  
+
+
+8.
+
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel9.png" width="500"
 </p>
