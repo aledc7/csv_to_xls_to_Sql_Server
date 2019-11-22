@@ -34,7 +34,8 @@ Primero convertiremos este archivo en xls
 </p>
 
 
-Se observa en la imgen de arriba, que todos los datos del archivo csv se encuentran en la misma columna, lo primero que haremos será separar cada campo en una columna, estos son los pasos:
+Se observa en la imgen de arriba :point_up: , que todos los datos del archivo csv se encuentran en la misma columna.  
+Lo primero que haremos será separar cada campo en una columna, estos son los pasos:
 
 
 
@@ -42,7 +43,7 @@ Se observa en la imgen de arriba, que todos los datos del archivo csv se encuent
 ## Convirtiendo un archivo CSV a XLS
 
 
-1.  Abrir un documento de excel en Blanco y Luego seleccionar el menú de __importar__
+1.  Abrir un documento de Excel en Blanco y Luego seleccionar el menú de __importar__
 
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel2.png" width="500"
@@ -59,7 +60,7 @@ Se observa en la imgen de arriba, que todos los datos del archivo csv se encuent
   
   
   
-3.  Definir a partir de que fila se comienza la importación, en mi caso desde ela fila 1.
+3.  Definir a partir de que fila se comienza la importación, en mi caso desde ela fila 1.  
 
 Luego elijo __Unicode (UTF8)__  y el radio buton en __Delimited__
 
@@ -68,7 +69,7 @@ Luego elijo __Unicode (UTF8)__  y el radio buton en __Delimited__
 </p>
   
 4.  Aquí debo indicar que caracter separa los campos en el archivo csv, en mi caso es una coma. 
-Aqui ya se debería notar la divisio de las columnas, en caso contrario, seguir cambiando la configuración, hasta lograr la división, tal como se muestra en la imagen de abajo :point_down:
+Aqui ya se debería notar la división de las columnas, en caso contrario, seguir cambiando la configuración, hasta lograr la división, tal como se muestra en la imagen de abajo :point_down:  
   
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel5.png" width="500"
@@ -83,15 +84,15 @@ Aqui ya se debería notar la divisio de las columnas, en caso contrario, seguir 
 </p>
 
 
-6.  Aqui pregunta en que hoja del archivo excel se copiaran los datos.
- Esta operacion puede tomar bastante tiempo, dependiendo del tamaño del archivo.
+6.  Aqui pregunta en que hoja del archivo Excel se copiaran los datos.  
+ Esta operación puede tomar bastante tiempo, dependiendo del tamaño del archivo.
 
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel7.png" width="500"
 </p>
 
 
-7.  Finalmente podemos observar el archivo de excel con sus datos separados por columnas.
+7.  Finalmente podemos observar el archivo de Excel con sus datos separados por columnas.
 
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel8.png" width="500"
@@ -109,9 +110,11 @@ Aqui ya se debería notar la divisio de las columnas, en caso contrario, seguir 
 
 1.
 
-Una vez tenemos creado el archivo xls separado por columnas, procedemos a abrir el __SQL Management Studio__  
+Una vez tenemos creado el archivo XLS separado por columnas, procedemos a abrir el __SQL Management Studio__  
 
-Luego de estár logueado y conectado, damos click secundario sobre la base que datos a la cual queremos insertarle la nueva tabla, y elegimos __Tasks__ luego __Import Data__ 
+Luego de estár logueado y conectado, damos __click secundario__ sobre la base que datos a la cual queremos insertarle la nueva tabla, y elegimos __Tasks__ luego __Import Data__   
+(notese  en la imagen, dice export, pero la opcion correcta es __import__)
+
 
 Database :arrow_right: __Tasks__ :arrow_right: __Import Data__
 
@@ -132,7 +135,7 @@ Database :arrow_right: __Tasks__ :arrow_right: __Import Data__
 </p>
 
 
-4. Exploramos y seleccionamos el archivo xls que será convertido en tabla 
+4. Exploramos y seleccionamos el archivo XLS que será convertido en tabla 
   
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql4.png" width="500"
@@ -150,7 +153,7 @@ Database :arrow_right: __Tasks__ :arrow_right: __Import Data__
 </p>  
 
 
-7. Luego en esta pantalla se debe indicar el nombre del servidor, la base de datos de destino, y las credenciales de __User__ y __Password__
+7. Luego en esta pantalla se debe indicar el nombre del Servidor, la Base de Datos de destino, y las credenciales de __User__ y __Password__
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql7.png" width="500"
 </p>
@@ -165,13 +168,13 @@ Database :arrow_right: __Tasks__ :arrow_right: __Import Data__
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql9.png" width="500"
 </p>
   
-9. En este cuedro muestra el __origen__ y __destino__ de la migración.   
+9. En este cuedro muestra el __origen__ y __destino__ de la Migración.   
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql10.png" width="500"
 </p>
 
 
-10. Por ultimo verificar que se encuentre checkeado el icono de __run inmediately__
+10. Por último verificar que se encuentre Checkeado el icono de __run inmediately__
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql11.png" width="500"
 </p>
@@ -186,13 +189,13 @@ Database :arrow_right: __Tasks__ :arrow_right: __Import Data__
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql13.png" width="500"
 </p>
   
-13. Finalmente solo resta refrescar la base de datos para que se vea la nueva tabla recien creada  
+13. Finalmente solo resta refrescar la Base de Datos para que se vea la nueva Tabla recién creada  
   
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql14.png" width="500"
 </p>
   
-14.  Aqui se observa el resultado final, tenemos nuestra tabla creada con sus datos, a partir de un archivo CSV.  
+14.  Aqui se observa el resultado final, tenemos nuestra Tabla creada con sus Datos, a partir de un archivo CSV.   
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql15.png" width="500"
 </p>
