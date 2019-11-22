@@ -37,20 +37,32 @@ Primero convertiremos este archivo en xls
 Se observa en la imgen de arriba, que todos los datos del archivo csv se encuentran en la misma columna, lo primero que haremos será separar cada campo en una columna, estos son los pasos:
 
 
-2.
 
+
+## Convirtiendo un archivo CSV a XLS
+
+
+1.
 
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel2.png" width="500"
 </p>
+  
+  
+  
+2.  
 
 
-
+2.2
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel3.png" width="500"
 </p>
+  
+  
+  
+3.  
 
-
+2.3
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/excel4.png" width="500"
 </p>
