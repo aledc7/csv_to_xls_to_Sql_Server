@@ -114,13 +114,16 @@ Una vez tenemos creado el archivo xls separado por columnas, procedemos a abrir 
 Luego de estár logueado y conectado, damos click secundario sobre la base que datos a la cual queremos insertarle la nueva tabla, y elegimos __Tasks__ luego __Import Data__ 
 
 Database :arrow_right: __Tasks__ :arrow_right: __Import Data__
- 
+
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/slq1.png" width="500"
+</p>
 
 
 2.  Se abrirá el Wizzard , le damos siguiente  :point_down:
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/slq1.png" width="500"
+  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql2.png" width="500"
 </p>
   
 
@@ -130,15 +133,16 @@ Database :arrow_right: __Tasks__ :arrow_right: __Import Data__
 
 
 3. Luego en __Data Source__ elegimos __Microsoft Excel__
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql2.png" width="500"
+
+
+ <p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql3.png" width="500"
 </p>
+
 
 4. Exploramos y seleccionamos el archivo xls que será convertido en tabla 
   
-  <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql3.png" width="500"
-</p>
+
 
 
 5. Luego debemos asegurarnos de tildar  - [x] First row has column names
