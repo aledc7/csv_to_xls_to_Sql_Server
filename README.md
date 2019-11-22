@@ -161,29 +161,27 @@ Database :arrow_right: __Tasks__ :arrow_right: __Import Data__
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql8.png" width="500"
 </p>
 
-
-9. En este cuedro muestra el __origen__ y __destino__ de la migración.
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql9.png" width="500"
 </p>
   
-10. Por ultimo verificar que se encuentre checkeado el icono de __run inmediately__   
+9. En este cuedro muestra el __origen__ y __destino__ de la migración.   
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql10.png" width="500"
 </p>
 
 
-11. Confirmar haciendo click en __finish__
+10. Por ultimo verificar que se encuentre checkeado el icono de __run inmediately__
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql11.png" width="500"
 </p>
   
-12. Si todo fue exitoso debería verse la siguiente imágen :point_down:  
+11. Confirmar haciendo click en __finish__  
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql12.png" width="500"
 </p>
 
-
+12. Si todo fue exitoso debería verse la siguiente imágen :point_down:
   <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/aledc7/xls_to_sqlServer/master/resources/sql13.png" width="500"
 </p>
