@@ -16,7 +16,7 @@
 Requerimientos
 
 - [x] Sql Server Management Studio
-- [x] Excel 2010 or +
+- [x] Excel 2010 o superior
 
 
 Aclaración:  En caso que se tenga un archivo XLS en vez de CSV, saltearse directamente hasta la [Seccion SQL](#seccion-sql)
