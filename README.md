@@ -19,7 +19,7 @@ Requerimientos
 - [x] Excel 2010 or +
 
 
-Aclaración:  En caso que se tenga un archivo XLS en vez de CSV, saltearse directamente hasta la __Seccion SQL__
+Aclaración:  En caso que se tenga un archivo XLS en vez de CSV, saltearse directamente hasta la [Seccion SQL](https://github.com/aledc7/csv_to_xls_to_Sql_Server#seccion-sql)
 
 1.  
 Se muestra el contenido de un archivo .scv separado por comas.  
